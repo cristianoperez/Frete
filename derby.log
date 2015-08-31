@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 31 12:01:19 BRT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014f-8446-d648-000009a37320 
+on database directory C:\Users\Prodesp\Downloads\Frete-master\database with class loader sun.misc.Launcher$AppClassLoader@34a245ab 
+Loaded from file:/C:/Users/Prodesp/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=C:\Users\Prodesp\Downloads\Frete-master
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
